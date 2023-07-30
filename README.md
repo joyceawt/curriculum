@@ -56,7 +56,7 @@ Some of the things you can do to contribute to this curriculum repository includ
 
 **Happy Coding!**
 
-### License
+## License
 
 \* See [license.md](https://github.com/TheOdinProject/curriculum/blob/main/license.md) for usage details.
 
