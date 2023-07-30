@@ -1,4 +1,4 @@
-[![The Odin Project Banner](https://www.theodinproject.com/assets/home-isometric-eebc110218cbdb1460dd2dfc662a4e96ae94747667dc81da422804ef55cfd2d8.svg)
+![The Odin Project Banner](https://www.theodinproject.com/assets/home-isometric-eebc110218cbdb1460dd2dfc662a4e96ae94747667dc81da422804ef55cfd2d8.svg)
 # The Odin Project Curriculum
 
 [The Odin Project](https://www.theodinproject.com/) (TOP) is an open-source curriculum for learning full-stack web development. We help users learn the skills and build the impressive portfolio of projects they need to get hired as a web developer. 
